@@ -65,4 +65,7 @@
 ```bash
    my name is  Soaham 
    I am interested in Web dev and cloud
-```
+```bash
+   my name is Pavan Kumar.
+   I am interseted in
+   machine learning and web development
